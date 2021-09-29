@@ -1,4 +1,5 @@
-# eGovFrame (전자 정부 표준 프레임워크)
+# eGovFrame (전자 정부 표준 프레임워크) 
+![initial](https://user-images.githubusercontent.com/81547780/135213379-88d2d46d-1627-494f-849f-a759a81a6bc3.png)
 ## 개발환경 실습 
 ### 1번째 실습 LAB(개발환경)
 * LAB 1-1 프로젝트 생성 실습
