@@ -12,3 +12,7 @@
 * LAB 2-1 IOC 실습(1)
 * LAB 2-2 IOC 실습(2)
 * LAB 2-3 AOP 실습
+* 
+### 3번째 실습 LAB(실행환경 공통기반)
+* LAB 3-1 Ibatis 실행환경 실습 (lab204)
+* LAB 3-2 Mybatis 실행환경 실습 (lab205)
