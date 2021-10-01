@@ -16,3 +16,8 @@
 ### 3번째 실습 LAB(실행환경 공통기반)
 * LAB 3-1 Ibatis 실행환경 실습 (lab204)
 * LAB 3-2 Mybatis 실행환경 실습 (lab205)
+* 
+### 4번째 실습 LAB(실행환경 공통기반)
+* LAB 4-1 배치템플릿 프로젝트 생성 및 테스트 실습 (lab302-batch-job-text)
+* LAB 4-2 Job 설정파일 구성 (lab302-batch)
+* LAB 4-3 File to DB 에서 File to File으로 변경 (lab302-batch)
