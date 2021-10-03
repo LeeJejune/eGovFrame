@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SERVER_URL">http://127.0.0.1:8080/lab403-DeviceAPI-Web</string>
+</resources>
