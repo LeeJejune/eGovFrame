@@ -21,3 +21,10 @@
 * LAB 4-1 배치템플릿 프로젝트 생성 및 테스트 실습 (lab302-batch-job-text)
 * LAB 4-2 Job 설정파일 구성 (lab302-batch)
 * LAB 4-3 File to DB 에서 File to File으로 변경 (lab302-batch)
+* 
+### 5번째 실습 LAB(실행환경 공통기반)
+* LAB 5-1 MVC 패턴 실습 (lab301-mvc)
+* LAB 5-2 Ajax 실습 (lab302-ajax)
+* LAB 5-3 실행환경 종합 실습 (lab303-easycompany)
+* LAB 5-4 모바일 웹 실습 (lab402-ux-component)
+* LAB 5-5 모바일 DeviceAPI 실습 (lab403-DeviceAPI-Web, lab403-DeviceAPI)
